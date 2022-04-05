@@ -8,7 +8,7 @@ header div{
     width: 100%;
     height: 75px;
     display: flex;
-    background-color: rgb(196, 113, 4);
+    background-color: rgb(248, 246, 242);
 }
 .posizione{
     margin-left: 20px;
@@ -34,31 +34,39 @@ header div{
     background-color: rgba(63, 89, 241, 0.966);
     color: white;
     border-radius: 4px;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-
+    font-family:cursive
 }
 .colore-grey{
     color: rgb(194, 189, 189);
     border-radius: 4px;
     border: 2px solid lightgrey;
+    font-family: cursive;
 }
 .tlist{
-    padding-top: 30px;
-    padding-bottom: 5px;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-family:cursive
+
 }
 .log{
-    
+    font-size: 20px;
+}
+.testo{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-family:sans-serif;
+    color: rgba(96, 93, 93, 1)
 }
 .border_radius{
     border: 3px solid rgb(26, 224, 26);
     border-radius: 50%;
     color: rgb(41, 252, 41);
+    font-size: xx-small;
+    margin-right: 10px;
 }
 .border_color{
     border: 1px solid rgb(0, 162, 255);
-    border-radius: 5px;
+    border-radius: 15px;
     background-color: rgb(0, 162, 255);
     color: white;
 }
@@ -66,34 +74,36 @@ header div{
     border: 3px solid red;
     border-radius: 50%;
     color: red;
+    font-size: xx-small;
+    margin-right: 10px;
 }
 .border_violet{
     border: 1px solid rgb(241, 41, 241);
-    border-radius: 5px;
+    border-radius: 15px;
     background-color: rgb(241, 41, 241);
     color: white;
 }
 .border_green{
     border: 1px solid rgb(69, 100, 71);
-    border-radius: 5px;
+    border-radius: 15px;
     background-color: rgb(69, 100, 71);
     color: white;
 }
 .border_orange{
     border: 1px solid rgb(255, 156, 42);
-    border-radius: 5px;
+    border-radius: 15px;
     background-color: rgb(255, 156, 42);
     color: white;
 }
 .border_pink{
     border: 1px solid rgb(250, 125, 233);
-    border-radius: 5px;
+    border-radius: 15px;
     background-color: rgb(250, 125, 233);
     color: white;
 }
 .border_lime{
     border: 1px solid rgb(113, 202, 78);
-    border-radius: 5px;
+    border-radius: 15px;
     background-color: rgb(113, 202, 78);
     color: white;
 }
