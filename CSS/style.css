@@ -72,6 +72,8 @@ header div{
     padding: 3px;
 }
 .border_color{
+    padding: 5px;
+    font-size: 15px;
     border: 1px solid rgb(0, 162, 255);
     border-radius: 15px;
     background-color: rgb(0, 162, 255);
@@ -86,30 +88,40 @@ header div{
     padding: 3px;
 }
 .border_violet{
+    padding: 5px;
+    font-size: 15px;
     border: 1px solid rgb(241, 41, 241);
     border-radius: 15px;
     background-color: rgb(241, 41, 241);
     color: white;
 }
 .border_green{
+    padding: 5px;
+    font-size: 15px;
     border: 1px solid rgb(69, 100, 71);
     border-radius: 15px;
     background-color: rgb(69, 100, 71);
     color: white;
 }
 .border_orange{
+    padding: 5px;
+    font-size: 15px;
     border: 1px solid rgb(255, 156, 42);
     border-radius: 15px;
     background-color: rgb(255, 156, 42);
     color: white;
 }
 .border_pink{
+    padding: 5px;
+    font-size: 15px;
     border: 1px solid rgb(250, 125, 233);
     border-radius: 15px;
     background-color: rgb(250, 125, 233);
     color: white;
 }
 .border_lime{
+    padding: 5px;
+    font-size: 15px;
     border: 1px solid rgb(113, 202, 78);
     border-radius: 15px;
     background-color: rgb(113, 202, 78);
